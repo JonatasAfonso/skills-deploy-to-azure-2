@@ -13,7 +13,6 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: jonatas-afonso-ttt-app
-###going back to F1
 
 jobs:
   setup-up-azure-resources:
