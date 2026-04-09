@@ -14,6 +14,8 @@ env:
   ###############################################
   AZURE_WEBAPP_NAME: jonatas-afonso-ttt-app
 
+
+
 jobs:
   setup-up-azure-resources:
     runs-on: ubuntu-latest
